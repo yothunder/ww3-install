@@ -1,0 +1,15 @@
+build
+cmake
+docs
+manual
+regtests
+smc_docs
+model/*
+!model/bin
+model/bin/*
+!model/bin/switch_bmkg
+*txt
+*log
+LICENSE.md
+README.md.original
+CONTRIBUTING.md
